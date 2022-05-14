@@ -6,6 +6,8 @@ My name is Daniel Oyewole from the London, and I'm what is considered to be a se
 - 📫 How to reach me: danieloyewole15@gmail.com 
 
 
+
+# ![](https://komarev.com/ghpvc/?username=your-github-Daniel-O-dev&style=for-the-badge&color=1C7A7F)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-O-dev&show_icons=true&theme=github_dark" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-O-dev&theme=github_dark" />
 </a>
