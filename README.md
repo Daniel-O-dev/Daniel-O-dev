@@ -5,6 +5,15 @@ My name is Daniel Oyewole from the London, and I'm what is considered to be a se
 
 - 📫 How to reach me: danieloyewole15@gmail.com 
 
+## Projects
+### Here are the recent projects I worked on...
+- [Score keeper 🏓](https://github.com/Daniel-O-dev/Score-keeping.git)
+- [TV API 📺](https://github.com/Daniel-O-dev/TV-API.git)
+- [Task tracker 📝](https://github.com/Daniel-O-dev/Tasks-tracker.git)
+- [Team Generator 🤼](https://github.com/Daniel-O-dev/Tasks-tracker.git)
+
+
+
 
 
 # ![](https://komarev.com/ghpvc/?username=your-github-Daniel-O-dev&style=for-the-badge&color=1C7A7F)
