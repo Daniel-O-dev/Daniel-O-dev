@@ -6,7 +6,7 @@ My name is Daniel Oyewole from the London, and I'm what is considered to be a se
 - 📫 How to reach me: danieloyewole15@gmail.com 
 
 ## Projects
-### Here are the recent projects I worked on...
+### Here are the recent projects I've worked on...
 - [Score keeper 🏓](https://github.com/Daniel-O-dev/Score-keeping.git)
 - [TV API 📺](https://github.com/Daniel-O-dev/TV-API.git)
 - [Task tracker 📝](https://github.com/Daniel-O-dev/Tasks-tracker.git)
