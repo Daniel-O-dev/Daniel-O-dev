@@ -7,10 +7,12 @@ My name is Daniel Oyewole from the London, and I'm what is considered to be a se
 
 ## Projects
 ### Here are the recent projects I've worked on...
-- [Score keeper 🏓](https://github.com/Daniel-O-dev/Score-keeping.git)
-- [TV API 📺](https://github.com/Daniel-O-dev/TV-API.git)
+
 - [Task tracker 📝](https://github.com/Daniel-O-dev/Tasks-tracker.git)
+- [TV API 📺](https://github.com/Daniel-O-dev/TV-API.git)
+- [Roll dice 🎲🎲](https://github.com/Daniel-O-dev/Dice-generator.git)
 - [Team Generator 🤼](https://github.com/Daniel-O-dev/Tasks-tracker.git)
+- [Score keeper 🏓](https://github.com/Daniel-O-dev/Score-keeping.git)
 
 
 
