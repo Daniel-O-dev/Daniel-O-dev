@@ -9,6 +9,7 @@ My name is Daniel Oyewole from the London, and I'm what is considered to be a se
 ### Here are the recent projects I've worked on...
 
 - [Hangman 🎮](https://github.com/Daniel-O-dev/Hangman.git)
+- [Lights Out 💡](https://github.com/Daniel-O-dev/Lights-Out.git)
 - [Task tracker 📝](https://github.com/Daniel-O-dev/Tasks-tracker.git)
 - [TV API 📺](https://github.com/Daniel-O-dev/TV-API.git)
 - [Roll dice 🎲🎲](https://github.com/Daniel-O-dev/Dice-generator.git)
