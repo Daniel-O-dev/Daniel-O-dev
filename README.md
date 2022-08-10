@@ -8,12 +8,12 @@ My name is Daniel Oyewole from the London, and I'm what is considered to be a se
 ## Projects
 ### Here are the recent projects I've worked on...
 
+- [Team Generator 🤼](https://github.com/Daniel-O-dev/Tasks-tracker.git)
 - [Hangman 🎮](https://github.com/Daniel-O-dev/Hangman.git)
 - [Lights Out 💡](https://github.com/Daniel-O-dev/Lights-Out.git)
 - [Todo app 📝](https://github.com/Daniel-O-dev/Todo-app.git)
 - [TV API 📺](https://github.com/Daniel-O-dev/TV-API.git)
 - [Roll dice 🎲🎲](https://github.com/Daniel-O-dev/Dice-generator.git)
-- [Team Generator 🤼](https://github.com/Daniel-O-dev/Tasks-tracker.git)
 - [Score keeper 🏓](https://github.com/Daniel-O-dev/Score-keeping.git)
 
 
